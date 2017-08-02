@@ -1,0 +1,121 @@
+//file generator code
+outFile2 - arr_outputfile
+outFile - dep_outputfile
+numbers2 - arr_time
+numbers - dep_time
+input_departure_time_of_flight.txt - dep_time_input.txt
+input_arrival_time_of_flight.txt - arr_time_input.txt
+
+// spot_locations - parking_info
+occupied - spot_flag
+spot_number - spot_id
+cluster_number - cluster_id
+region_number - region_id
+group_center_number - center_id
+occupied_by_car_number - car_num_in_spot
+
+// display_spot_information - show_parking_info
+sno - sid
+cno - clid
+gcnumber - cid
+rno - rid
+occupied - flag
+
+// class car
+car_number - car_id
+car_spot_number - parking_spot
+arrival_time_of_car - car_arr_time
+departure_time - car_dep_time
+job_number - job_id
+residency_time - stay_time
+busy - occupied
+turned_away - success
+nojobsmigrated - migrate
+display_car_information() - show_car_info()
+calculate_departure_time() - departure_after_simulation()
+get_arrival_time_of_car() - arrival_time()
+calculate_residency_time_of_car() - stay_time_calculation()
+display_failed_job_car_details() - show_failure_car_info()
+display_pass_job_car_details() - show_job_complete_car_info()
+
+// class jobs - class job_assigned
+data1/2/3_car_number - car_id_data1/2/3
+data_replication_time_to_same_cluster - time_taken_to_replicate_within_cluster
+data_replication_time_to_same_region - time_taken_to_replicate_within_region
+migrated_successfully - success_migration
+data_this_job_will_produce - data_produced
+data_storage_time - time_taken_to_store_data
+job_duration_remained - remaining_time_job
+completed - complete
+assigned - assign
+
+
+//ifstream and ofstream variables
+outFile - outputfile
+inFile - inputfile
+outFilePassJob - CompletedOutput
+outFileFailed - FailureOutput
+outTest - Testoutput1
+outTest2 - Testoutput2
+outTurnedAway - outputNoParkingAllotted
+inFile - dep_inputfile
+inFile2 - arr_inputfile
+CarsAndJobDetails.txt - Car_Info.txt
+PossibleFailedJob.txt - Failed_Job_Info.txt
+PossiblePassedJob - Completed_Job_Info.txt
+cars_participation_simulation.txt - Car_simulation_Info.txt
+total_cars_for_the_simulation.txt - TotalCars_simulation.txt
+replicationData.txt - DataReplication.txt
+SuccessfullyMigratedJobs.txt - MigrationSuccessful.txt
+FailedMigratedJobs - MigrationFailure
+FailedMigratedJobs.txt - MigrationFailure_Info.txt
+outFileCarParticipation - Cars_in_simulation
+outFileTotalCarsArrived - TotalCars
+outSpot - outputSpot
+SpotDetails.txt - ParkingDetails.txt
+outFileParkingLot - ouputParking
+NewCarsAssignedtoSpot.txt - NewCar.txt
+
+//Variables created at the beginning
+Array_first_spot_cluster - first_spot_cluster
+END_TIME - End_time
+HD_bandwidth - bandwidth
+generate_array() - Generate_Array_for_cluster()
+spotnumber - spot
+spot_number_of_this_job - parking_spot_of_job
+spot_num - spotnumber
+max_residency_not_busy_car() - max_stay_no_job_assigned()
+car_num - car_number
+spot_var - temp_spot
+jobfailCounter - failcount
+jobPassCounter - jobcomplete
+turned_away_count - assign_count
+count_failed_to_migrate - failure_migration_count
+count_migrated_successfully - migration_count
+jobs_completed - count_job_complete
+
+//Data replication process
+generate_random_cluster_number_in_a_region() - random_cluster_id_generation()
+GC_number_of_this_car - car_cid
+spot_number_of_this_job - car_spot_id
+cluster_number_of_this_car - car_cluster_number
+car_number - car_num
+spot_number - spot_num
+random_number - random_num
+random_cluster_number - rand_num_cluster
+GC_num - cid_of_car
+
+//main function
+c - j
+s - k
+j - m
+cc - n
+sss - p
+k - s
+job_num_var - temp_job_num
+temp_car_num_for_migration - temp_car_id_migrate
+jobremained - temp_remaining_job
+jobdur - temp_job_time
+car_number_of_this_job - this_car_id
+spot_number_of_this_job - this_spot_id
+cluster_number_of_this_job - this_cluster_id

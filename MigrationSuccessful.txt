@@ -1,0 +1,324 @@
+Migrated to Car ID: 880
+ Migrated from Job ID: 249
+Time of migration:2
+Migrated to Car ID: 728
+ Migrated from Job ID: 481
+Time of migration:2
+Migrated to Car ID: 1726
+ Migrated from Job ID: 536
+Time of migration:2
+Migrated to Car ID: 2499
+ Migrated from Job ID: 876
+Time of migration:2
+Migrated to Car ID: 160
+ Migrated from Job ID: 1002
+Time of migration:2
+Migrated to Car ID: 616
+ Migrated from Job ID: 1289
+Time of migration:2
+Migrated to Car ID: 1747
+ Migrated from Job ID: 1397
+Time of migration:2
+Migrated to Car ID: 2387
+ Migrated from Job ID: 1554
+Time of migration:2
+Migrated to Car ID: 896
+ Migrated from Job ID: 1718
+Time of migration:2
+Migrated to Car ID: 95
+ Migrated from Job ID: 1870
+Time of migration:2
+Migrated to Car ID: 1146
+ Migrated from Job ID: 1992
+Time of migration:2
+Migrated to Car ID: 1821
+ Migrated from Job ID: 2072
+Time of migration:2
+Migrated to Car ID: 1773
+ Migrated from Job ID: 2195
+Time of migration:2
+Migrated to Car ID: 40
+ Migrated from Job ID: 2321
+Time of migration:2
+Migrated to Car ID: 2085
+ Migrated from Job ID: 2359
+Time of migration:2
+Migrated to Car ID: 880
+ Migrated from Job ID: 702
+Time of migration:3
+Migrated to Car ID: 880
+ Migrated from Job ID: 842
+Time of migration:4
+Migrated to Car ID: 728
+ Migrated from Job ID: 1690
+Time of migration:4
+Migrated to Car ID: 880
+ Migrated from Job ID: 501
+Time of migration:5
+Migrated to Car ID: 880
+ Migrated from Job ID: 440
+Time of migration:8
+Migrated to Car ID: 880
+ Migrated from Job ID: 379
+Time of migration:9
+Migrated to Car ID: 728
+ Migrated from Job ID: 2398
+Time of migration:9
+Migrated to Car ID: 880
+ Migrated from Job ID: 964
+Time of migration:12
+Migrated to Car ID: 728
+ Migrated from Job ID: 1004
+Time of migration:12
+Migrated to Car ID: 1726
+ Migrated from Job ID: 1527
+Time of migration:12
+Migrated to Car ID: 2499
+ Migrated from Job ID: 1540
+Time of migration:12
+Migrated to Car ID: 880
+ Migrated from Job ID: 685
+Time of migration:13
+Migrated to Car ID: 880
+ Migrated from Job ID: 1721
+Time of migration:14
+Migrated to Car ID: 880
+ Migrated from Job ID: 694
+Time of migration:15
+Migrated to Car ID: 728
+ Migrated from Job ID: 833
+Time of migration:15
+Migrated to Car ID: 880
+ Migrated from Job ID: 583
+Time of migration:16
+Migrated to Car ID: 880
+ Migrated from Job ID: 782
+Time of migration:17
+Migrated to Car ID: 728
+ Migrated from Job ID: 1459
+Time of migration:17
+Migrated to Car ID: 880
+ Migrated from Job ID: 2357
+Time of migration:18
+Migrated to Car ID: 880
+ Migrated from Job ID: 867
+Time of migration:19
+Migrated to Car ID: 728
+ Migrated from Job ID: 900
+Time of migration:19
+Migrated to Car ID: 1726
+ Migrated from Job ID: 1044
+Time of migration:19
+Migrated to Car ID: 2499
+ Migrated from Job ID: 1276
+Time of migration:19
+Migrated to Car ID: 160
+ Migrated from Job ID: 1845
+Time of migration:19
+Migrated to Car ID: 880
+ Migrated from Job ID: 1982
+Time of migration:20
+Migrated to Car ID: 728
+ Migrated from Job ID: 2178
+Time of migration:20
+Migrated to Car ID: 880
+ Migrated from Job ID: 808
+Time of migration:21
+Migrated to Car ID: 880
+ Migrated from Job ID: 263
+Time of migration:23
+Migrated to Car ID: 728
+ Migrated from Job ID: 710
+Time of migration:23
+Migrated to Car ID: 1726
+ Migrated from Job ID: 1461
+Time of migration:23
+Migrated to Car ID: 880
+ Migrated from Job ID: 1348
+Time of migration:25
+Migrated to Car ID: 728
+ Migrated from Job ID: 1377
+Time of migration:25
+Migrated to Car ID: 880
+ Migrated from Job ID: 1189
+Time of migration:26
+Migrated to Car ID: 880
+ Migrated from Job ID: 875
+Time of migration:28
+Migrated to Car ID: 880
+ Migrated from Job ID: 1778
+Time of migration:29
+Migrated to Car ID: 880
+ Migrated from Job ID: 38
+Time of migration:30
+Migrated to Car ID: 728
+ Migrated from Job ID: 987
+Time of migration:30
+Migrated to Car ID: 1726
+ Migrated from Job ID: 1048
+Time of migration:30
+Migrated to Car ID: 2499
+ Migrated from Job ID: 1764
+Time of migration:30
+Migrated to Car ID: 880
+ Migrated from Job ID: 2488
+Time of migration:31
+Migrated to Car ID: 880
+ Migrated from Job ID: 456
+Time of migration:32
+Migrated to Car ID: 728
+ Migrated from Job ID: 609
+Time of migration:32
+Migrated to Car ID: 880
+ Migrated from Job ID: 66
+Time of migration:33
+Migrated to Car ID: 728
+ Migrated from Job ID: 267
+Time of migration:33
+Migrated to Car ID: 1726
+ Migrated from Job ID: 1103
+Time of migration:33
+Migrated to Car ID: 880
+ Migrated from Job ID: 1775
+Time of migration:34
+Migrated to Car ID: 728
+ Migrated from Job ID: 2047
+Time of migration:34
+Migrated to Car ID: 880
+ Migrated from Job ID: 793
+Time of migration:36
+Migrated to Car ID: 880
+ Migrated from Job ID: 935
+Time of migration:37
+Migrated to Car ID: 728
+ Migrated from Job ID: 957
+Time of migration:37
+Migrated to Car ID: 1726
+ Migrated from Job ID: 958
+Time of migration:37
+Migrated to Car ID: 2499
+ Migrated from Job ID: 1257
+Time of migration:37
+Migrated to Car ID: 160
+ Migrated from Job ID: 2445
+Time of migration:37
+Migrated to Car ID: 880
+ Migrated from Job ID: 937
+Time of migration:38
+Migrated to Car ID: 728
+ Migrated from Job ID: 1689
+Time of migration:38
+Migrated to Car ID: 880
+ Migrated from Job ID: 140
+Time of migration:39
+Migrated to Car ID: 880
+ Migrated from Job ID: 49
+Time of migration:41
+Migrated to Car ID: 728
+ Migrated from Job ID: 660
+Time of migration:41
+Migrated to Car ID: 1726
+ Migrated from Job ID: 1699
+Time of migration:41
+Migrated to Car ID: 880
+ Migrated from Job ID: 1067
+Time of migration:42
+Migrated to Car ID: 728
+ Migrated from Job ID: 1361
+Time of migration:42
+Migrated to Car ID: 880
+ Migrated from Job ID: 1086
+Time of migration:43
+Migrated to Car ID: 728
+ Migrated from Job ID: 1242
+Time of migration:43
+Migrated to Car ID: 1726
+ Migrated from Job ID: 2253
+Time of migration:43
+Migrated to Car ID: 880
+ Migrated from Job ID: 863
+Time of migration:44
+Migrated to Car ID: 728
+ Migrated from Job ID: 2550
+Time of migration:44
+Migrated to Car ID: 880
+ Migrated from Job ID: 641
+Time of migration:46
+Migrated to Car ID: 728
+ Migrated from Job ID: 1030
+Time of migration:46
+Migrated to Car ID: 880
+ Migrated from Job ID: 1095
+Time of migration:47
+Migrated to Car ID: 728
+ Migrated from Job ID: 1450
+Time of migration:47
+Migrated to Car ID: 880
+ Migrated from Job ID: 577
+Time of migration:49
+Migrated to Car ID: 728
+ Migrated from Job ID: 732
+Time of migration:49
+Migrated to Car ID: 1726
+ Migrated from Job ID: 783
+Time of migration:49
+Migrated to Car ID: 880
+ Migrated from Job ID: 392
+Time of migration:50
+Migrated to Car ID: 728
+ Migrated from Job ID: 1295
+Time of migration:50
+Migrated to Car ID: 1726
+ Migrated from Job ID: 1319
+Time of migration:50
+Migrated to Car ID: 880
+ Migrated from Job ID: 276
+Time of migration:52
+Migrated to Car ID: 728
+ Migrated from Job ID: 1012
+Time of migration:52
+Migrated to Car ID: 1726
+ Migrated from Job ID: 1763
+Time of migration:52
+Migrated to Car ID: 880
+ Migrated from Job ID: 1314
+Time of migration:53
+Migrated to Car ID: 880
+ Migrated from Job ID: 797
+Time of migration:54
+Migrated to Car ID: 728
+ Migrated from Job ID: 950
+Time of migration:54
+Migrated to Car ID: 1726
+ Migrated from Job ID: 1820
+Time of migration:54
+Migrated to Car ID: 2499
+ Migrated from Job ID: 1915
+Time of migration:54
+Migrated to Car ID: 880
+ Migrated from Job ID: 2333
+Time of migration:55
+Migrated to Car ID: 880
+ Migrated from Job ID: 1117
+Time of migration:56
+Migrated to Car ID: 728
+ Migrated from Job ID: 2035
+Time of migration:56
+Migrated to Car ID: 880
+ Migrated from Job ID: 977
+Time of migration:57
+Migrated to Car ID: 728
+ Migrated from Job ID: 1119
+Time of migration:57
+Migrated to Car ID: 880
+ Migrated from Job ID: 671
+Time of migration:58
+Migrated to Car ID: 728
+ Migrated from Job ID: 1033
+Time of migration:58
+Migrated to Car ID: 880
+ Migrated from Job ID: 572
+Time of migration:60
+Migrated to Car ID: 728
+ Migrated from Job ID: 2554
+Time of migration:60
